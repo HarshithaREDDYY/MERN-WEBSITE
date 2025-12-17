@@ -4,7 +4,7 @@ Welcome to the comprehensive documentation for the Event Management Platform!
 A modern, full-featured event management platform with AI-powered chatbot, real-time RSVP system, and comprehensive event management capabilities. Built with React, TypeScript, and modern web technologies.
 
 ✨ Live Demo
-Coming soon – Currently runs locally with full functionality
+https://eeventhub.netlify.app/
 
 ---
 
